@@ -13,7 +13,8 @@ public class Controller {
         return Arrays.asList(
                 new Dog("Kona", 28.0, 100.5),
                 new Dog("Daiko", 36.0, 120.3),
-                new Dog("Fido", 18.0, 66.9)
+                new Dog("Fido", 18.0, 66.9),
+                new Dog("Buster", 48.0, 150.8)
         );
     }
 }
