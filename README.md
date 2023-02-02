@@ -1,4 +1,4 @@
-# demo-pet-RestApi
+# Pets RestApi
 
 A simple API built with SpringBoot, which serves GET requests to "/pets" endpoint.
 
